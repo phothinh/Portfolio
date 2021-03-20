@@ -91,11 +91,11 @@ header ul li a:hover{
 }
 
 .banner-text>h2{
-	font-size: 80px;
+	font-size: 5vw;
 }
 
 .banner-text>h4{
-	font-size: 1.5rem;
+	font-size: 1.5vw;
 }
 
 header.sticky .logo,
@@ -514,8 +514,8 @@ footer{
 }
 
 .interest-img img{
-	width : 200px;
-	height : 400px;
+	width : 12vw;
+	height : 24vw;
 	object-fit:cover;
 	margin : 0px 30px 0px 30px;
 	filter: grayscale(100%);
@@ -526,8 +526,8 @@ footer{
 }
 
 .interest-img img:hover{
-	width : 250px;
-	height: 450px;
+	width : 14vw;
+
 	transition: .5s;
 	filter: grayscale(0%);
 }
